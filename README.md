@@ -12,6 +12,6 @@
 
 ## デモ
 
-[画面1](./image/demo1.png)
-[画面2](./image/demo2.png)
+[画面1](./demo1.png)
+[画面2](./demo2.png)
 
